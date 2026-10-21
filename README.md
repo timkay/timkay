@@ -1,6 +1,6 @@
 ### Nicotine 👋
 
-Now building **[Nicotine](https://github.com/timkay/nicotine)**, a cross-platform coding target for AI, a replace Electron and Tauri.
+Now building **[Nicotine](https://github.com/timkay/nicotine)**, a cross-platform coding target for AI and replacement for Electron and Tauri.
 
 ---
 
